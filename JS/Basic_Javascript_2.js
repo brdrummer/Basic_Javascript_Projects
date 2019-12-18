@@ -3,3 +3,4 @@ function myFirstFunction () {
     var result = str.fontcolor("green");
     document.getElementById("Green_Text").innerHTML = result;
 }
+
